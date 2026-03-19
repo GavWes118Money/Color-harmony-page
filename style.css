@@ -1,1 +1,7 @@
-
+body {
+  color: #222;
+  background-color: #fafafa;
+}
+a {
+  color: #0055cc; /* Good contrast for links */
+}
