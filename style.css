@@ -26,6 +26,10 @@
   z-index:999
 }
 
+h2 {
+  text-color: #85C1EF;
+}
+
 section {
   background: linear-gradient(to right, #3564F0, #359FF0);
   color: white;
@@ -38,8 +42,8 @@ main {
   color: black;
   padding: 5rem;
   text-align: center;
-  p (font-family: helvetica;)
 }
+
 
 footer {
   font-size: 20px;
