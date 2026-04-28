@@ -26,8 +26,15 @@
   z-index:999
 }
 
-h2 {
-  text-color: #85C1EF;
+
+
+.h2 {
+  text-color: gray;
+}
+
+p {
+  font-family: sans-serif;
+  font-size: 20px;
 }
 
 section {
@@ -35,6 +42,7 @@ section {
   color: white;
   padding: 7rem;
   text-align: center;
+  font-size: 2rem;
 }
 
 main {
@@ -42,6 +50,7 @@ main {
   color: black;
   padding: 5rem;
   text-align: center;
+  font-size: 2rem;
 }
 
 
